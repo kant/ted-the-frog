@@ -1,0 +1,24 @@
+{
+	'GeneralTitle' : 'Ted, The Frog',
+	'GeneralNext' : 'Next',
+	'GeneralPrevious' : 'Previous',
+	'GeneralBack' : 'Back',
+	'GeneralLoading' : 'Loading...',
+	
+	'MenuPlay' : 'Play',
+	'MenuSettings' : 'Settings',
+	'MenuHelp' : 'Help',
+	'MenuAbout' : 'About',
+	'MenuQuit' : 'Quit',
+	'MenuLangSwitch' : 'Português',
+	
+	'HudTime' : 'Time:',
+	'HudPoints' : 'Points:',
+	'HudPoints2' : ' points',
+	'HudGameOver' : 'Game Over!',
+	'HudRestart' : 'Restart',
+	'HudBestScores' : 'Scores',
+	'HudExit' : 'Exit',
+	
+	'HelpText' : "Use left mouse button for short jump, right mouse jump for long jump. Get the flies for points, and the clocks for more time. Be fast and don't let the time run out and don't be eaten by the aligators! This game was made in two days for the game jam GameJaaj 3, by Diego Almeida and Joel Gomes."
+}

@@ -1,0 +1,24 @@
+{
+	'GeneralTitle' : 'Ted, O Sapo',
+	'GeneralNext' : 'Próximo',
+	'GeneralPrevious' : 'Anterior',
+	'GeneralBack' : 'Voltar',
+	'GeneralLoading' : 'Carregando...',
+	
+	'MenuPlay' : 'Jogar',
+	'MenuSettings' : 'Ajustes',
+	'MenuHelp' : 'Ajuda',
+	'MenuAbout' : 'Sobre',
+	'MenuQuit' : 'Sair',
+	'MenuLangSwitch' : 'English',
+	
+	'HudTime' : 'Tempo:',
+	'HudPoints' : 'Pontos:',
+	'HudPoints2' : ' pontos',
+	'HudGameOver' : 'Fim de Jogo!',
+	'HudRestart' : 'Reiniciar',
+	'HudBestScores' : 'Pontuações',
+	'HudExit' : 'Sair',
+	
+	'HelpText' : 'Use o botão esquerdo do mouse para pulo curto, botão direito do mouse para pulo longo. Pegue as moscas para pontos, e os relógios para mais tempo. Seja rápido e não deixe o tempo acabar, nem seja comido pelos jacarés! Este jogo foi feito em dois dias para a game jam GameJaaj 3, por Diego Almeida e Joel Gomes.'
+}
