@@ -1,0 +1,24 @@
+{
+	'GeneralTitle' : 'Ted, la rana',
+	'GeneralNext' : 'Siguiente',
+	'GeneralPrevious' : 'Anterior',
+	'GeneralBack' : 'Volver',
+	'GeneralLoading' : 'Cargando...',
+	
+	'MenuPlay' : 'Jugar',
+	'MenuSettings' : 'Ajustes',
+	'MenuHelp' : 'Ayuda',
+	'MenuAbout' : 'Acerca',
+	'MenuQuit' : 'Salir',
+	'MenuLangSwitch' : 'Español',
+	
+	'HudTime' : 'Tiempo:',
+	'HudPoints' : 'Puntos:',
+	'HudPoints2' : ' puntos',
+	'HudGameOver' : '¡Juego terminado!',
+	'HudRestart' : 'Reiniciar',
+	'HudBestScores' : 'Puntajes',
+	'HudExit' : 'Salir',
+	
+	'HelpText' : "Utiliza el botón izquierdo del ratón para el salto corto y el botón derecho para el salto largo. Obtén moscas por puntos y relojes para más tiempo. ¡Sé rápido y no dejes que se acabe el tiempo y no te dejes devorar por los lagartos! Este juego fue realizado en dos días durante la GameJaaj 3, por Diego Almeida y Joel Gomes."
+}
